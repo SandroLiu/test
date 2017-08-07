@@ -19,6 +19,7 @@
     NSLog(@"123");
     NSLog(@"123");
     NSLog(@"分支一开发的内容");
+    NSLog(@"featureA分支开发的内容");
 }
 
 
