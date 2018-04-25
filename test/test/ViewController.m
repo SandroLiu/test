@@ -25,7 +25,6 @@
     NSLog(@"featureA分支开发中....");
     NSLog(@"featureA分支开发完成");
     NSLog(@"第二版正式环境测试");
-    NSLog(@"删除其他分支");
 }
 
 
