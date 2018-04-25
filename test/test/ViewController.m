@@ -24,7 +24,7 @@
     NSLog(@"修复了紧急bug");
     NSLog(@"featureA分支开发中....");
     NSLog(@"featureA分支开发完成");
-    NSLog(@"第二版正式环境测试");
+    NSLog(@"j9009809808080");
 }
 
 
